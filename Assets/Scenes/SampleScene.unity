@@ -156,7 +156,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rt: {fileID: 8400000, guid: 41a2ed9b217728242b4c53e3c8a81d7f, type: 2}
-  pngOutPath: F-our
+  pngOutPath: F-ourNoCE
 --- !u!64 &181925929
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -406,7 +406,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -72}
+  m_LocalPosition: {x: 0, y: 1, z: -70}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -430,7 +430,7 @@ MonoBehaviour:
   UseWhichFilters: 0
   isLinearColorspace: 0
   foveaX: 0.526
-  foveaY: 0.487
+  foveaY: 0.513
   meanDepth: 3
   foveaSize: 0.1
   usingHMDFoveation: 0
@@ -502,7 +502,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8a7516b977e651540b224621869dd11c, type: 2}
+  - {fileID: 2100000, guid: 1b26c4ae7e6de044086008452b5a3e72, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
